@@ -1,0 +1,19 @@
+/* Asterick wildcard to remove default styles placed by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+/* header */
+header {
+    background-color: lightcoral;
+}
+/* main-content */
+main {
+    background-color: lightblue;
+}
+/* footer */
+footer {
+    background-color: orange;
+}
